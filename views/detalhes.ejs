@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pokedex </title>
+    <link rel="stylesheet" href="/css/detalhes.css" type="text/css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <ul>
+                <a href="/"> <img src="https://fontmeme.com/permalink/220321/0eb9635063808d2488091d138f3b0e8a.png"> </a>
+            </ul>
+        </header>
+        <main>
+            <% pokemonAtual.forEach(element=> { %>
+                <div class="card_container">
+                    <div class="main-card">
+                        <img src="<%= element.img %> " alt="<%= element.name %> ">
+                    </div>
+                </div>
+                <% }) %>
+        </main>
+        <% pokemonAtual.forEach(element=> { %>
+        <nav>
+            <div class="status"> 
+            <li><br>Ordem Pokémon: <%= element.num %> </li>
+            <li><br>Nome: <%= element.name %> </li>
+            <li><br>Tipo: <%= element.type %> </li>
+            <li><br>Altura: <%= element.height %> </li>
+            <li><br>Peso: <%= element.weight %> </li>
+            <li><br>Fraquezas: <%= element.weaknesses %> </li>
+            </div>
+        </nav>
+        <footer>
+            <span>
+                <%= element.details %>
+            </span>
+        </footer>
+        <% }) %>
+    </div>
+</body>
+
+</html>

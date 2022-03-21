@@ -1,0 +1,150 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    transition: .2s;
+}
+
+body {
+    background-color: #222222;
+}
+
+
+main {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+
+header {
+    background-image: url("https://fontmeme.com/permalink/220321/135a4132b46a26a7e03cdd467a8e8729.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    background-color: #222222;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+    background-color: #222222;
+    box-shadow: black 8px 7px 6px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+ul,il {
+    list-style: none;
+}
+
+div.card_container {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.1);
+    background-image: url(https://img.icons8.com/color/200/000000/pokeball-2.png);
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    filter: drop-shadow(5);
+    background-position: center 30px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    height: 300px;
+}
+
+div.card_container:hover {
+    background-image: url(https://img.icons8.com/color/200/000000/open-pokeball--v2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+    transform: scale(1.1);
+    background-color: hsla(0, 0%, 0%, 0.89);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    transition: 0.3s;
+}
+
+
+div.main_card img {
+    opacity: 0;
+}
+
+div.card_container:hover img {
+    opacity: 1;
+    transition: .3s;
+    height: 190px;
+    width: 180px;
+    backdrop-filter: blur(3px);
+    object-fit: cover;
+
+}
+
+div.header_card {
+    display: flex;
+    width: 50%;
+    height: 50%;
+    justify-content: space-between;
+    
+    
+}
+
+
+span.card_name {
+    position: relative;
+    right: 40px;
+    font-size: 1.2em;
+    color: #fff;
+    z-index: 1;
+    text-shadow: black 4px 3px 2px;
+}
+
+span.card_number {
+    position: relative;
+    top: 4px;
+    right: 25px;
+    font-size: 2.5em;
+    color: rgba(255, 255, 255, 0.123);
+}
+
+span.card_width {
+    position: relative;
+    top: -6px;
+    font-size: 1.2em;
+    color: #fff;
+    z-index: 1;
+    text-shadow: black 4px 3px 2px;
+}
+
+span.card_height {
+    position: relative;
+    top: -5px;
+    font-size: 1.2em;
+    color: #fff;
+    z-index: 1;
+    text-shadow: black 4px 3px 2px;
+}
+
+div.footer_card {
+    position: relative;
+    top: -5px;
+    font-size: 1.2em;
+    color: rgb(103, 180, 164);
+    z-index: 1;
+    text-shadow: black 4px 3px 2px;
+    
+}
+

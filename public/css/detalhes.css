@@ -1,0 +1,102 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    transition: .5s;
+}
+
+body {
+    background-color: #222222;
+}
+
+div.container {
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    grid-template-rows: 20vh 60vh 20vh;   
+    grid-template-areas: "h h"
+    "m n"
+    "f f"; 
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+header {
+    margin-top: 20px;
+    grid-area: h;
+    background-image: url("https://fontmeme.com/permalink/220321/945b1ba389c1e46f04bd716e157ac760.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: #222222;
+    box-shadow: black 8px 7px 6px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: left;
+}
+
+main {
+    background: #222222;
+    grid-area: m;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+a {
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+main div.card_container {
+    height: 100vh;
+    width: 40vh;
+}
+
+main div img {
+    max-height: 60vh;
+    max-width: 50vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-content: left;
+    position: absolute;
+}
+
+nav {
+    font-size: 1.5em;
+    color: #fff;
+    text-shadow: black 4px 3px 2px;
+    
+}
+
+
+nav {
+    background: #222222;
+    grid-area: n;
+    text-align: left;
+
+}
+
+footer {
+    background: #222222;
+    grid-area: f;
+    box-shadow: inset 0px 7px 6px black;
+    border-radius: 20px;
+    font-size: 1.5em;
+    color: #fff;
+    text-shadow: black 4px 3px 2px;
+    padding: 50px;
+    justify-content: space-between;
+}
