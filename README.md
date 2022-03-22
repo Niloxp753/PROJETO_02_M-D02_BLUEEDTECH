@@ -9,7 +9,6 @@ Trata-se de uma enciclopédia virtual portátil de alta tecnologia que os treina
 Em geral, quando são cumpridos determinados requisitos, a capacidade pode ser aumentada permitindo que a Pokédex possa armazenar dados de outros Pokémons, que não são comuns, assim como os Pokémons de outras regiões.
 
 ## <h1> <i>Stacks✔️<i></h1>
-
 <p align="left">
 <div align="left" valign="top"><br>
   <img align="left" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
