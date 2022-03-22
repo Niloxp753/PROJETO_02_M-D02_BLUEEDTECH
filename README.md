@@ -1,6 +1,6 @@
 # Projeto Pokédex - Semana 2 - BlueEdtech
 
-<img align-content="center" alt="Pokédex" height="1000" width="1000" src="https://fontmeme.com/permalink/220321/135a4132b46a26a7e03cdd467a8e8729.png">
+<img align-content="center" alt="Pokédex" height="500" width="500" src="https://fontmeme.com/permalink/220321/135a4132b46a26a7e03cdd467a8e8729.png">
 
 ## Detalhes do Projeto
 
