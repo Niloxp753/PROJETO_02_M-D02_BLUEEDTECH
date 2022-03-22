@@ -16,8 +16,7 @@ Em geral, quando são cumpridos determinados requisitos, a capacidade pode ser a
   <img align="left" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="nodejs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="left" alt="express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-</div>
-## </p>
+</div> ## </p>
  
 ## <h1> <i>Personal✔️<i></h1>
   
