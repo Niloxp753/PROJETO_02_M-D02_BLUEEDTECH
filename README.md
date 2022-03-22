@@ -10,7 +10,7 @@ Em geral, quando são cumpridos determinados requisitos, a capacidade pode ser a
 
 <p align="center">
 <div align="center" valign="top"><br>
-  <img align="center" alt="MySql" height="40" width="40" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mysql-1618950-1378113.png">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
