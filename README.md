@@ -1,5 +1,7 @@
 # Projeto Pokédex - Semana 2 - BlueEdtech
 
+<img align="center" alt="Pokédex" height="60" width="60" src="https://fontmeme.com/permalink/220321/135a4132b46a26a7e03cdd467a8e8729.png">
+
 ## Detalhes do Projeto
 
 A Pokédex é conhecida como Poké-Agenda no Brasil (e ainda como Dexter ou Dextette, dependendo da voz masculina ou feminina do aparelho).
