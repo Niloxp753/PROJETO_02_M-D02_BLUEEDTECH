@@ -10,7 +10,7 @@ Em geral, quando são cumpridos determinados requisitos, a capacidade pode ser a
 
 ## <h1> <i>Stacks✔️<i></h1>
  
-## <p align="center">
+<p align="center"> ##
  <div align="left" valign="top"><br>
   <img align="left" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
