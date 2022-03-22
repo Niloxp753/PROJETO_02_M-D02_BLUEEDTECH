@@ -1,1 +1,1 @@
-# PROJETO_02_M-D02_BLUEEDTECH
+# Projeto Pokemon - Semana 2 - BlueTech
