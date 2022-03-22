@@ -6,7 +6,7 @@ A Pokédex é conhecida como Poké-Agenda no Brasil (e ainda como Dexter ou Dext
 Trata-se de uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. 
 Em geral, quando são cumpridos determinados requisitos, a capacidade pode ser aumentada permitindo que a Pokédex possa armazenar dados de outros Pokémons, que não são comuns, assim como os Pokémons de outras regiões.
 
-## <h1 align='center'> <i>Linguagens Utilizadas✔️<i></h1>
+## <h1> <i>Linguagens Utilizadas✔️<i></h1>
 
 <p align="center">
 <div align="center" valign="top"><br>
