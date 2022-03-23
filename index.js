@@ -4249,7 +4249,7 @@ const pokeObject = {
 const pokedex = pokeObject.pokemon
 
 
-const port = 3000
+const port = process.env.PORT || 3000
 
 app.listen(port, () => {
     console.log(`Meu servidor esta rodando na porta ${port}`)
